@@ -1,5 +1,6 @@
 # Smart-Path-Finder
 Both optimality and Completeness
+
 •	Searching is one of the computer science algorithms. We know that today’s modern computers store a lot of information. To read this information proficiently, we need very efficient searching algorithms.
 
 •	When a search algorithm has the property of optimality, it means it is guaranteed to find the best possible solution. When a search algorithm has the property of completeness, it means that if a solution to a given problem exists, the algorithm is guaranteed to find it
